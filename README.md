@@ -37,7 +37,7 @@ $ cd project-name
 ### 2. Create and Configure the Node.js Project
 
 ```bash
-$ npm init -y
+$ npm init
 ```
 
 ### 3. Install the Required Dependencies
