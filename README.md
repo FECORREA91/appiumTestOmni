@@ -30,7 +30,7 @@ The POM architecture is used to keep tests organized and efficient. The project 
 ### 1. Clone the Repository
 
 ```bash
-$ git clone <REPOSITORY_URL>
+$ git clone https://github.com/FECORREA91/appiumTestOmni.git
 $ cd project-name
 ```
 
