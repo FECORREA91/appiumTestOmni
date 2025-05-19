@@ -99,7 +99,7 @@ $ npx cucumber-js
 
 ## 📚 Additional Resources
 
-* [Appium Documentation](https://appium.io/docs/en/about-appium/intro/)
+* [Appium Documentation](https://appium.io/docs/en/2.17/sponsors/)
 * [Cucumber.js Documentation](https://cucumber.io/docs/cucumber/)
 * [Android Emulator Setup](https://developer.android.com/studio/run/emulator)
 
